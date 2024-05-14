@@ -1,0 +1,22 @@
+#header
+{
+    background-color: red;
+    height: 50px;
+}
+#main
+{
+    display: flex;
+}
+#pole1
+{
+    background-color: blue;
+    width: 30%;
+    height: 890px;
+  
+}
+#pole2
+{
+    background-color: green;
+    width: 70%;
+    height: 890px;
+}
